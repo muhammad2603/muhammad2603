@@ -20,4 +20,5 @@ Riwayat Pendidikan:
 > 2023 - Sekarang   | Universitas Graha Karya Muara Bulian, Prodi Sistem Informasi.
 
 Riwayat Pekerjaan:
-> 2023 > Sekarang    DPRD Kabupaten Batang Hari, Bagian IT.
+> 2023 - Sekarang                  |  DPRD Kabupaten Batang Hari, Bagian IT.
+> 2026 September - 2026 November   |  Magang/Prakerin di Diskominfo Batang Hari, Bagian TIK (Teknologi Informasi & Komunikasi)
